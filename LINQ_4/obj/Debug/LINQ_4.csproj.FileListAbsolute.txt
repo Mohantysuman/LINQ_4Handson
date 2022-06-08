@@ -1,0 +1,8 @@
+F:\vs-Project\LINQ_4\LINQ_4\bin\Debug\LINQ_4.exe.config
+F:\vs-Project\LINQ_4\LINQ_4\bin\Debug\LINQ_4.exe
+F:\vs-Project\LINQ_4\LINQ_4\bin\Debug\LINQ_4.pdb
+F:\vs-Project\LINQ_4\LINQ_4\obj\Debug\LINQ_4.csproj.AssemblyReference.cache
+F:\vs-Project\LINQ_4\LINQ_4\obj\Debug\LINQ_4.csproj.SuggestedBindingRedirects.cache
+F:\vs-Project\LINQ_4\LINQ_4\obj\Debug\LINQ_4.csproj.CoreCompileInputs.cache
+F:\vs-Project\LINQ_4\LINQ_4\obj\Debug\LINQ_4.exe
+F:\vs-Project\LINQ_4\LINQ_4\obj\Debug\LINQ_4.pdb
